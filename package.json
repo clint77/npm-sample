@@ -1,0 +1,29 @@
+{
+  "name": "npm-sample",
+  "version": "1.0.0",
+  "description": "An sample npm package that will take a command line argument when run",
+  "preferGlobal": true,
+  "bin": {
+    "filesearch": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clint77/npm-sample.git"
+  },
+  "keywords": [
+    "npm",
+    "demo",
+    "command",
+    "line",
+    "package"
+  ],
+  "author": "Clint Pijuan <clintp1@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/clint77/npm-sample/issues"
+  },
+  "homepage": "https://github.com/clint77/npm-sample#readme"
+}
