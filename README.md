@@ -1,5 +1,7 @@
 # npm-sample
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/ef000344f6ecd8fae450/maintainability)](https://codeclimate.com/github/clint77/npm-sample/maintainability)
+
 This is a sample npm package that will take in a filename from the command line
 
 ## Getting started
